@@ -1,11 +1,12 @@
-### Bem vinde, eu sou a Jéssica👋
+### Olá, eu sou a Jéssica👋
 ##
 - 😄 Pronomes: ela/dela
 - Atualmente sou estudante de Física pela UFRGS
-
+- Comecei a programar com 15 anos quando entrei no ensino médio que era integrado ao técnico em informática
+- Atualmente meu foco é me aprofundar em Pyhton e SQL
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jetks&show_icons=true&theme=radical)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetks&hide_progress=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetks&layout=compact&theme=radical)
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Jess-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
